@@ -1,0 +1,4 @@
+#Sat Jul 16 15:57:11 IST 2022
+base.0=/home/rakesh/Music/Infedis_Infotech/news_and_book_flutter_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
